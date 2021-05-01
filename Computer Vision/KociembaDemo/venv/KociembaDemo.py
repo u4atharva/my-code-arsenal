@@ -2,9 +2,8 @@ import kociemba
 
 solve_sequence = kociemba.solve('DRLUUBFBRBLURRLRUBLRDDFDLFUFUFFDBRDUBRUFLLFDDBFLUBLRBD')
 
+input = 'DRLUUBFBRBLURRLRUBLRDDFDLFUFUFFDBRDUBRUFLLFDDBFLUBLRBD'
+
+print(len(input))
+
 print(solve_sequence)
-
-def empty(a):
-	pass
-
-
